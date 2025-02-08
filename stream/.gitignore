@@ -1,0 +1,9 @@
+# Excluir certificados SSL y claves privadas
+*.key
+*.crt
+*.pem
+/etc/letsencrypt/
+
+# Archivos de logs y temporales
+*.log
+*.cache
