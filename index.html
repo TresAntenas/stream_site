@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Señal_TresAntenas_Comms</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script src="https://source.zoom.us/2.13.0/lib/vendor/react.min.js"></script>
+    <script src="https://source.zoom.us/2.13.0/lib/vendor/react-dom.min.js"></script>
+    <script src="https://source.zoom.us/2.13.0/lib/vendor/redux.min.js"></script>
+    <script src="https://source.zoom.us/2.13.0/lib/vendor/redux-thunk.min.js"></script>
+    <script src="https://source.zoom.us/2.13.0/zoom-meeting-embedded-2.13.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Video en el fondo -->
+        <div id="video-container">
+            <video id="video" controls autoplay muted></video>
+        </div>
+        
+        <!-- Zoom sobre el video -->
+        <div id="zoom-container">
+            <div id="zmmtg-root"></div>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+    <script src="js/zoom.js"></script>
+</body>
+</html>

@@ -1,0 +1,348 @@
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"access_token":"eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6ImU1YjZiMWM3LWU3M2MtNGI5NC05ZmM0LTUxYjExMWYxNzliNiJ9.eyJ2ZXIiOjEwLCJhdWlkIjoiY2MyMjViYWVkODQwZGQ1OGIxZWU1MTBjZGJiYzAwOTY5NDFkNWFhNzM3YzA4NDdjMjk4YjRjYTU3MGFlNGY3MSIsImNvZGUiOiIxOU1sVUdzQ2FoV0lVOV91cEhFUWZteFVZQ0k5Ul9wamciLCJpc3MiOiJ6bTpjaWQ6bXExcXRqOFpRQm1YNHVoSVVyYl9UdyIsImdubyI6MCwidHlwZSI6MCwidGlkIjowLCJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJDb2Q4YnRRa1N3dXprNER5WHVGUjFnIiwibmJmIjoxNzM4OTY5Njg5LCJleHAiOjE3Mzg5NzMyODksImlhdCI6MTczODk2OTY4OSwiYWlkIjoidHNKR3d2SDZURmFNa19iLXhtVDBhZyJ9.p4-rpJzvXdHHicqciLyGHOBxPS_DovVJzek8nETCGrRbGCv_B6YXDOj8uq8aKKvg_A5pAd_kG871QRa_uVegXA","token_type":"bearer","refresh_token":"eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6ImRkYjFmODNjLWRhZWUtNDhhMC1hNjg4LTE5OWFlYTZjZjM0MiJ9.eyJ2ZXIiOjEwLCJhdWlkIjoiY2MyMjViYWVkODQwZGQ1OGIxZWU1MTBjZGJiYzAwOTY5NDFkNWFhNzM3YzA4NDdjMjk4YjRjYTU3MGFlNGY3MSIsImNvZGUiOiIxOU1sVUdzQ2FoV0lVOV91cEhFUWZteFVZQ0k5Ul9wamciLCJpc3MiOiJ6bTpjaWQ6bXExcXRqOFpRQm1YNHVoSVVyYl9UdyIsImdubyI6MCwidHlwZSI6MSwidGlkIjowLCJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJDb2Q4YnRRa1N3dXprNER5WHVGUjFnIiwibmJmIjoxNzM4OTY5Njg5LCJleHAiOjE3NDY3NDU2ODksImlhdCI6MTczODk2OTY4OSwiYWlkIjoidHNKR3d2SDZURmFNa19iLXhtVDBhZyJ9.VnxthiFFYAUXjXaIminWqKydJ_0H-bMfsSBygiKEZ_Fexs0RCtV5pL5EKiY87T3HE90LXMgHB_ijo9Q6rTkfSA","expires_in":3599,"scope":"user:read:user user:read:list_assistants user:read:token user:read:zak user:read:email meeting:read:list_meetings meeting:write:meeting meeting:read:meeting meeting:update:meeting meeting:read:list_registrants meeting:read:registrant meeting:read:livestream meeting:update:livestream_status meeting:read:list_polls meeting:read:poll meeting:update:poll meeting:read:summary meeting:read:list_past_instances meeting:read:list_past_participants meeting:read:list_poll_results meeting:read:survey meeting:read:participant meeting:read:chat_message meeting:delete:live_meeting_chat_message meeting:read:token meeting:update:live_meeting_chat_message zoomapp:inmeeting","api_url":"https://api.zoom.us"}
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"access_token":"eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6IjdlNTM4N2Y0LWJhMmYtNGFlNy1iMzY5LWUxMzFkZDNiNWMzMyJ9.eyJ2ZXIiOjEwLCJhdWlkIjoiY2MyMjViYWVkODQwZGQ1OGIxZWU1MTBjZGJiYzAwOTY5NDFkNWFhNzM3YzA4NDdjMjk4YjRjYTU3MGFlNGY3MSIsImNvZGUiOiJHZ3pBTGE2T0ZrWEVRbFRRanJHUjhhai1yMFRROENXN3ciLCJpc3MiOiJ6bTpjaWQ6bXExcXRqOFpRQm1YNHVoSVVyYl9UdyIsImdubyI6MCwidHlwZSI6MCwidGlkIjowLCJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJDb2Q4YnRRa1N3dXprNER5WHVGUjFnIiwibmJmIjoxNzM4OTcwNDgxLCJleHAiOjE3Mzg5NzQwODEsImlhdCI6MTczODk3MDQ4MSwiYWlkIjoidHNKR3d2SDZURmFNa19iLXhtVDBhZyJ9.C6hKRKxfZH06ZIo3P14oDMkjZXQkJwVn3ScR_hiraGT02wzHgQN_2wf4RtWuyLYrMxs-wbLu6xgoL5SEdgP5qg","token_type":"bearer","refresh_token":"eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6ImVmNjljMTczLWM0YmUtNGFhYy1hZTczLThkZTIzMTc1ZWUyZiJ9.eyJ2ZXIiOjEwLCJhdWlkIjoiY2MyMjViYWVkODQwZGQ1OGIxZWU1MTBjZGJiYzAwOTY5NDFkNWFhNzM3YzA4NDdjMjk4YjRjYTU3MGFlNGY3MSIsImNvZGUiOiJHZ3pBTGE2T0ZrWEVRbFRRanJHUjhhai1yMFRROENXN3ciLCJpc3MiOiJ6bTpjaWQ6bXExcXRqOFpRQm1YNHVoSVVyYl9UdyIsImdubyI6MCwidHlwZSI6MSwidGlkIjowLCJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJDb2Q4YnRRa1N3dXprNER5WHVGUjFnIiwibmJmIjoxNzM4OTcwNDgxLCJleHAiOjE3NDY3NDY0ODEsImlhdCI6MTczODk3MDQ4MSwiYWlkIjoidHNKR3d2SDZURmFNa19iLXhtVDBhZyJ9.YbCaIdQn077CTvedQQr04JaY6s5j5HQNEqEnCs5LKFaUQh820L-143iyDEo2XW0wy1fGpcSiEoeZq67eScLOHg","expires_in":3599,"scope":"user:read:user user:read:list_assistants user:read:token user:read:zak user:read:email meeting:read:list_meetings meeting:write:meeting meeting:read:meeting meeting:update:meeting meeting:read:list_registrants meeting:read:registrant meeting:read:livestream meeting:update:livestream_status meeting:read:list_polls meeting:read:poll meeting:update:poll meeting:read:summary meeting:read:list_past_instances meeting:read:list_past_participants meeting:read:list_poll_results meeting:read:survey meeting:read:participant meeting:read:chat_message meeting:delete:live_meeting_chat_message meeting:read:token meeting:update:live_meeting_chat_message zoomapp:inmeeting","api_url":"https://api.zoom.us"}
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"access_token":"eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6IjhkN2RlNTNmLTJmODMtNGU5Ni1iZmUyLTI5MmVhODA5N2I4MyJ9.eyJ2ZXIiOjEwLCJhdWlkIjoiY2MyMjViYWVkODQwZGQ1OGIxZWU1MTBjZGJiYzAwOTY5NDFkNWFhNzM3YzA4NDdjMjk4YjRjYTU3MGFlNGY3MSIsImNvZGUiOiJ6aVZGdHA4MlpGdjhERjd3aWRSU2x1RTdHLWdrR210YVEiLCJpc3MiOiJ6bTpjaWQ6bXExcXRqOFpRQm1YNHVoSVVyYl9UdyIsImdubyI6MCwidHlwZSI6MCwidGlkIjowLCJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJDb2Q4YnRRa1N3dXprNER5WHVGUjFnIiwibmJmIjoxNzM4OTcxNDg5LCJleHAiOjE3Mzg5NzUwODksImlhdCI6MTczODk3MTQ4OSwiYWlkIjoidHNKR3d2SDZURmFNa19iLXhtVDBhZyJ9.h_nbfgrr7UdYl1D2trRPy-ADWwcJJZ83F5hs5G4o_FwC2Xb-LsOQGR9mtQ8iuPGB6k7cZTUZX9_P3B_TJDWBfQ","token_type":"bearer","refresh_token":"eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6IjEzODgyNWRhLWYyMDctNDVkZC05NjdiLWVkY2ExZGFlZDhjMCJ9.eyJ2ZXIiOjEwLCJhdWlkIjoiY2MyMjViYWVkODQwZGQ1OGIxZWU1MTBjZGJiYzAwOTY5NDFkNWFhNzM3YzA4NDdjMjk4YjRjYTU3MGFlNGY3MSIsImNvZGUiOiJ6aVZGdHA4MlpGdjhERjd3aWRSU2x1RTdHLWdrR210YVEiLCJpc3MiOiJ6bTpjaWQ6bXExcXRqOFpRQm1YNHVoSVVyYl9UdyIsImdubyI6MCwidHlwZSI6MSwidGlkIjowLCJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJDb2Q4YnRRa1N3dXprNER5WHVGUjFnIiwibmJmIjoxNzM4OTcxNDg5LCJleHAiOjE3NDY3NDc0ODksImlhdCI6MTczODk3MTQ4OSwiYWlkIjoidHNKR3d2SDZURmFNa19iLXhtVDBhZyJ9.MA8rMi454Gfui9V5GM6xJSyNZoWLznfgNBq8cnuWkT5kgnWlw2lEhBjsciq1xO1r_R530pYBCLZU0reANmYpog","expires_in":3599,"scope":"user:read:user user:read:list_assistants user:read:token user:read:zak user:read:email meeting:read:list_meetings meeting:write:meeting meeting:read:meeting meeting:update:meeting meeting:read:list_registrants meeting:read:registrant meeting:read:livestream meeting:update:livestream_status meeting:read:list_polls meeting:read:poll meeting:update:poll meeting:read:summary meeting:read:list_past_instances meeting:read:list_past_participants meeting:read:list_poll_results meeting:read:survey meeting:read:participant meeting:read:chat_message meeting:delete:live_meeting_chat_message meeting:read:token meeting:update:live_meeting_chat_message zoomapp:inmeeting","api_url":"https://api.zoom.us"}
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+❌ Error: No se recibió el código de autorización.🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+❌ Error: No se recibió el código de autorización.🔎 Respuesta de Zoom: {"access_token":"eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6IjcwYzNmYzk4LTUzNjgtNGZkYy1hNGE1LTNiYzc4N2RiNDE5ZSJ9.eyJ2ZXIiOjEwLCJhdWlkIjoiY2MyMjViYWVkODQwZGQ1OGIxZWU1MTBjZGJiYzAwOTY5NDFkNWFhNzM3YzA4NDdjMjk4YjRjYTU3MGFlNGY3MSIsImNvZGUiOiI1Y1NLU0U0MEZwR0ZhNlRMbmFsU1Fxa2g4R1ZXay02SFEiLCJpc3MiOiJ6bTpjaWQ6bXExcXRqOFpRQm1YNHVoSVVyYl9UdyIsImdubyI6MCwidHlwZSI6MCwidGlkIjowLCJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJDb2Q4YnRRa1N3dXprNER5WHVGUjFnIiwibmJmIjoxNzM5MDA3NzczLCJleHAiOjE3MzkwMTEzNzMsImlhdCI6MTczOTAwNzc3MywiYWlkIjoidHNKR3d2SDZURmFNa19iLXhtVDBhZyJ9.1QIoiYJxo7A8V_3-1V0AI3V-6zHwrykGgajSUvEFwQcjRYevB9bz5ownxMXog_pyZVcZlPjb6IdPPzClHV5ZjQ","token_type":"bearer","refresh_token":"eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6Ijc1NDk1ZjQxLTcyNTYtNDE2MS05ZDJhLWM2NDk3ZjM2ZTdkMSJ9.eyJ2ZXIiOjEwLCJhdWlkIjoiY2MyMjViYWVkODQwZGQ1OGIxZWU1MTBjZGJiYzAwOTY5NDFkNWFhNzM3YzA4NDdjMjk4YjRjYTU3MGFlNGY3MSIsImNvZGUiOiI1Y1NLU0U0MEZwR0ZhNlRMbmFsU1Fxa2g4R1ZXay02SFEiLCJpc3MiOiJ6bTpjaWQ6bXExcXRqOFpRQm1YNHVoSVVyYl9UdyIsImdubyI6MCwidHlwZSI6MSwidGlkIjowLCJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJDb2Q4YnRRa1N3dXprNER5WHVGUjFnIiwibmJmIjoxNzM5MDA3NzczLCJleHAiOjE3NDY3ODM3NzMsImlhdCI6MTczOTAwNzc3MywiYWlkIjoidHNKR3d2SDZURmFNa19iLXhtVDBhZyJ9.19St1y4CRuBeWpsoSY98FxlyIGWHH3LOMVqOY7PVhMko7gVQDAiLK_9cpSkSqVihJM8mf3HApt0-vo7ckBhIwA","expires_in":3599,"scope":"user:read:user user:read:list_assistants user:read:token user:read:zak user:read:email meeting:read:list_meetings meeting:write:meeting meeting:read:meeting meeting:update:meeting meeting:read:list_registrants meeting:read:registrant meeting:read:livestream meeting:update:livestream_status meeting:read:list_polls meeting:read:poll meeting:update:poll meeting:read:summary meeting:read:list_past_instances meeting:read:list_past_participants meeting:read:list_poll_results meeting:read:survey meeting:read:participant meeting:read:chat_message meeting:delete:live_meeting_chat_message meeting:read:token meeting:update:live_meeting_chat_message zoomapp:inmeeting","api_url":"https://api.zoom.us"}
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+❌ Error: No se recibió el código de autorización.🔎 Respuesta de Zoom: {"access_token":"eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6ImFmZTY4ZGJhLTRiMWItNDQ4Yi1hZTAxLWMzYmQwOGEyNjA4NiJ9.eyJ2ZXIiOjEwLCJhdWlkIjoiY2MyMjViYWVkODQwZGQ1OGIxZWU1MTBjZGJiYzAwOTY5NDFkNWFhNzM3YzA4NDdjMjk4YjRjYTU3MGFlNGY3MSIsImNvZGUiOiJYMTVBTTRVakw4OW1jdXZpak5XVGNHUGthbDhhMTRCbmciLCJpc3MiOiJ6bTpjaWQ6bXExcXRqOFpRQm1YNHVoSVVyYl9UdyIsImdubyI6MCwidHlwZSI6MCwidGlkIjowLCJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJDb2Q4YnRRa1N3dXprNER5WHVGUjFnIiwibmJmIjoxNzM5MDA5NDgyLCJleHAiOjE3MzkwMTMwODIsImlhdCI6MTczOTAwOTQ4MiwiYWlkIjoidHNKR3d2SDZURmFNa19iLXhtVDBhZyJ9.YIj15cQNBCokFD77-GLzyUJmuvclxrgLPivKwcYXySn59u9-_6IKxEXjItwbxoxVgfi9zes8_cxVkw69oMTCjQ","token_type":"bearer","refresh_token":"eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6IjNmZDQzN2NkLTU0NTYtNDg4Yi1iNTNlLTE0ZTUyNzg5N2Q3NiJ9.eyJ2ZXIiOjEwLCJhdWlkIjoiY2MyMjViYWVkODQwZGQ1OGIxZWU1MTBjZGJiYzAwOTY5NDFkNWFhNzM3YzA4NDdjMjk4YjRjYTU3MGFlNGY3MSIsImNvZGUiOiJYMTVBTTRVakw4OW1jdXZpak5XVGNHUGthbDhhMTRCbmciLCJpc3MiOiJ6bTpjaWQ6bXExcXRqOFpRQm1YNHVoSVVyYl9UdyIsImdubyI6MCwidHlwZSI6MSwidGlkIjowLCJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJDb2Q4YnRRa1N3dXprNER5WHVGUjFnIiwibmJmIjoxNzM5MDA5NDgyLCJleHAiOjE3NDY3ODU0ODIsImlhdCI6MTczOTAwOTQ4MiwiYWlkIjoidHNKR3d2SDZURmFNa19iLXhtVDBhZyJ9.BeB9hv8mGeZLpF3YSyxTaM9NPxg_QSB7UmaRRiNbBp7M6pWlwLE-J3Xpwns6y9R-GFd9lY9pZoCo6V7c4FJ1BA","expires_in":3599,"scope":"user:read:user user:read:list_assistants user:read:token user:read:zak user:read:email meeting:read:list_meetings meeting:write:meeting meeting:read:meeting meeting:update:meeting meeting:read:list_registrants meeting:read:registrant meeting:read:livestream meeting:update:livestream_status meeting:read:list_polls meeting:read:poll meeting:update:poll meeting:read:summary meeting:read:list_past_instances meeting:read:list_past_participants meeting:read:list_poll_results meeting:read:survey meeting:read:participant meeting:read:chat_message meeting:delete:live_meeting_chat_message meeting:read:token meeting:update:live_meeting_chat_message zoomapp:inmeeting","api_url":"https://api.zoom.us"}
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)
+🔎 Respuesta de Zoom: {"reason":"Invalid authorization code","error":"invalid_grant"}
+❌ Error: No se pudo obtener el Access Token.
+Array
+(
+    [reason] => Invalid authorization code
+    [error] => invalid_grant
+)

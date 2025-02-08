@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Bienvenido a Tres Antenas</title>
+</head>
+<body>
+    <h1>¡Servidor NGINX funcionando correctamente!</h1>
+    <p>Este es un sitio en construcción.</p>
+</body>
+</html>
+
