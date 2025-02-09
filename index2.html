@@ -1,24 +1,42 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Señal_TresAntenas_Comms</title>
-    <link rel="stylesheet" href="css/style.css"> <!-- Ensure this path is correct -->
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Señal_TresAntenas_Comms</title>
+  <link rel="stylesheet" href="css/style.css"> <!-- Tu CSS personalizado -->
+  <!-- HLS.js para manejar streaming de video HLS -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-    <header>
-        <div id="overlay-image">
-            <img src="stream/media/IMG_7611.PNG" alt="Descripción de la imagen">
-        </div> <!-- Overlay image div inside header -->
-    </header>
-    
-    
-        <div id="video-container">
-            <video id="video" controls autoplay muted></video>
-        </div>
-    <script src="js/player.js"></script> 
+  <header>
+    <div id="overlay-image">
+      <img src="stream/media/IMG_7611.PNG" alt="Descripción de la imagen">
+    </div>
+  </header>
+  
+  <!-- Sección del Video HLS/RTMP -->
+  <section id="sec1">
+    <div id="video-container">
+      <video id="video" controls autoplay muted playsinline webkit-playsinline></video>
+    </div>
+  </section>
+
+  <!-- Sección para Zoom -->
+  <section id="sec2">
+    <div id="zmmtg-root"></div>
+    <div id="aria-notify-area"></div>
+     <!-- Botón para unirse a la reunión -->
+  <button id="join-meeting">Unirse a la Reunión</button>
+  </section>
+
+ 
+
+  <!-- Script para manejar el reproductor de video -->
+  <script src="js/player.js"></script>
+
+  <!-- Aquí incluirás el bundle que ya contiene Zoom Web SDK -->
+  <script src="js/bundle.js"></script>
+
 </body>
 </html>
-<!-- index2-->

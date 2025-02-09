@@ -1,4 +1,5 @@
-/* Elimina márgenes y padding del body */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
 body {
     margin: 0;
     padding: 0;
@@ -7,11 +8,11 @@ body {
     flex-direction: column; /* Stack sections vertically */
     justify-content: flex-start;
     align-items: center;
-    height: 100vh; /* Hace que el body ocupe toda la pantalla */
+    height: 100%; /* Hace que el body ocupe toda la pantalla */
 }
 
 header {
-    width: 100%;
+    width: 10%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,18 +20,13 @@ header {
     padding: 5px 0; /* Añade un poco de espacio alrededor del contenido */
 }
 
-section {
-    width: 100%;
-    display: block; /* Ensure sections are displayed as blocks */
-    justify-content: center;
-    align-items: center;
-}
+
 
 /* Contenedor del video */
 #video-container {
     position: relative;
-    width: 100vw;
-    height: 100vh;
+    width: 70%vw;
+    height: 50%h;
     background-color: black;
     overflow: hidden;
     display: flex;
@@ -40,15 +36,42 @@ section {
 
 /* Ajusta el video para que cubra todo el contenedor */
 video {
-    width: 100%;
-    height: 100%;
+    width: 70%;
+    height: 50%;
     object-fit: contain;
     margin: 0 !important;
     padding: 0 !important;
+    object-fit: cover;
+    touch-action: manipulation; /* Evita zoom accidental en iOS */
+    -webkit-user-select: none; /* Previene selección accidental en iOS */
+
 }
 
 #overlay-image img {
     padding-top: 2;
     width: 40px;
     height: 40px;
+}
+/* Contenedor de Zoom Web SDK */
+#zmmtg-root {
+    width: 70%;
+    height: 50%; /* 60% de la pantalla */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.8);
+    overflow: hidden;
+}
+#join-meeting {
+    margin: 40px;
+    padding: 20px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
 }
