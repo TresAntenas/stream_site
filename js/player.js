@@ -29,7 +29,19 @@ document.addEventListener("DOMContentLoaded", function () {
     function iniciarHLS() {
         if (Hls.isSupported()) {
             console.log("🎥 HLS soportado, intentando cargar transmisión...");
-            var hls = new Hls();
+            var hls = new Hls({
+                maxBufferLength: 10,      // Aumenta el tamaño máximo del buffer en segundos
+                maxBufferSize: 60 * 1000 * 1000, // Aumenta el tamaño del buffer en bytes (60MB)
+                maxMaxBufferLength: 20,   // Permite que el buffer se extienda si hay datos disponibles
+                liveSyncDuration: 5,      // Sincronización en vivo con un retraso de 5s
+                liveMaxLatencyDuration: 10, // Máximo retraso en vivo antes de recortar buffer
+                liveSyncDurationCount: 3,  // Mantiene un buffer de 3 segmentos HLS en memoria
+                liveMaxLatencyDurationCount: 6, // Permite hasta 6 fragmentos de atraso
+                fragLoadingMaxRetry: 3,  // Reintenta cargar el fragmento antes de fallar
+                manifestLoadingMaxRetry: 3,  // Reintenta cargar la lista de reproducción antes de fallar
+                levelLoadingMaxRetry: 3,  // Reintenta cargar niveles de calidad antes de fallar
+                startFragPrefetch: true // Prefetch de segmentos antes de ser usados para prevenir cortes
+            });
             hls.loadSource(streamURL);
             hls.attachMedia(video);
 
