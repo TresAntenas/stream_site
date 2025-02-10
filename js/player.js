@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
         video.style.visibility = "hidden";
         estaConectado = false;
         iniciarReintento();
+        
     }
 
     function ocultarPoster() {
