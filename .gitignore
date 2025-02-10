@@ -1,0 +1,15 @@
+# Ignorar archivos de HLS (segmentos y listas de reproducción)
+hls/
+*.ts
+*.m3u8
+# Ignorar dependencias de Node.js
+node_modules/
+zoom-server/node_modules/
+
+# Ignorar archivos de build
+dist/
+
+
+# Ignorar archivos de configuración locales
+package-lock.json
+node_modules
