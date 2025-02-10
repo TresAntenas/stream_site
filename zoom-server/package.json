@@ -1,10 +1,11 @@
 {
   "name": "zoom-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Servidor de Zoom",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "build": "webpack --mode production"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +16,10 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
   }
 }
+
