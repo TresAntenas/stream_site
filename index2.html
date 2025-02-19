@@ -1,53 +1,25 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Señal_TresAntenas_Comms</title>
-  <link rel="stylesheet" href="css/style.css"> <!-- Tu CSS personalizado -->
-  <!-- HLS.js para manejar streaming de video HLS -->
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  <script src="/dist/zoom.bundle.js"></script>
-  <script src="/dist/player.bundle.js"></script>
- 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Señal_TresAntenas_Comms</title>
+    <link rel="stylesheet" href="css/style.css"> <!-- Ensure this path is correct -->
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-  <header>
-    <div id="overlay-image">
-      <img src="stream/media/IMG_7611.PNG" alt="Descripción de la imagen">
-    </div>
-  </header>
-  
-<!-- Sección del Video HLS/RTMP -->
-<section id="sec1">
-  <div id="video-container" style="position: relative; width: 100%; max-width: 640px; height: 360px; background-color: black;">
-    <!-- Imagen de Póster -->
-    <img id="poster-image" src="/stream/media/IMG_7611.PNG"
-         style="position: absolute; width: 70px; height: 70px; object-fit: cover;
-         top: 50%; left: 50%; transform: translate(-50%, -50%);
-         display: block; z-index: 10; background-color: black;">
+    <header>
+        <div id="overlay-image">
+            <img src="stream/media/IMG_7611.PNG" alt="Descripción de la imagen">
+        </div> <!-- Overlay image div inside header -->
+    </header>
     
-    <!-- Video Player -->
-    <video id="video" controls autoplay muted playsinline webkit-playsinline
-           style="width: 100%; height: 100%; background-color: black; visibility: hidden;"></video>
-  </div>
-</section>
-
-
-
-
-
-  <!-- Sección para Zoom -->
-  <section id="sec2">
-    <div id="zmmtg-root"></div>
-    <div id="aria-notify-area"></div>
-    <!-- Botón para unirse a la reunión -->
-    <button id="join-meeting">Unirse a la Reunión</button>
-  </section>
-
-  <script src="js/player.js"></script>
-  <!-- Script para manejar el reproductor de video -->
-  <script src="dist/player.bundle.js"></script>
-  <script src="dist/zoom.bundle.js"></script> <!-- Added bundled Zoom script -->
+    
+        <div id="video-container">
+            <video id="video" controls autoplay muted></video>
+        </div>
+    <script src="js/player.js"></script>
+   
 </body>
 </html>
+<!-- index2-->

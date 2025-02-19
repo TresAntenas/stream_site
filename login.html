@@ -1,55 +1,27 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
 </head>
 <body>
-    <h1>Login</h1>
-    <form id="login-form">
-        <label for="email">Email: </label>
-        <input type="email" id="email" name="email" required><br><br>
+  <h1>Iniciar Sesión</h1>
 
-        <label for="password">Password: </label>
-        <input type="password" id="password" name="password" required><br><br>
+  <form id="loginForm">
+    <label>
+      Usuario:
+      <input type="text" id="email" name="email" required>
+    </label><br>
+    <label>
+      Contraseña:
+      <input type="password" id="password" name="password" required>
+    </label><br>
+    <button type="submit">Ingresar</button>
+  </form>
 
-        <button type="submit">Login</button>
-    </form>
-
-    <div id="message"></div>
-
-    <script>
-        document.getElementById('login-form').addEventListener('submit', async (e) => {
-            e.preventDefault();
-
-            const email = document.getElementById('email').value;
-            const password = document.getElementById('password').value;
-
-            try {
-                const response = await fetch('https://tresantenas.cl/wp-json/custom-jwt/v1/login', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    body: JSON.stringify({ email, password }),
-                });
-
-                const data = await response.json();
-
-                if (data.success) {
-                    // JWT successfully received, you can store it and use it
-                    localStorage.setItem('jwt', data.token);
-                    document.getElementById('message').innerText = 'Login successful!';
-                    // Redirect to the page you want after login
-                    window.location.href = 'https://stream.tresantenas.cl/reunion-online/';
-                } else {
-                    document.getElementById('message').innerText = 'Login failed: ' + data.error;
-                }
-            } catch (error) {
-                document.getElementById('message').innerText = 'Error: ' + error.message;
-            }
-        });
-    </script>
+  <!-- Referencia al archivo externo -->
+  <script src="login.js"></script>
 </body>
 </html>
+
