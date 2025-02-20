@@ -1,27 +1,34 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Login</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="login.css">
 </head>
 <body>
-  <h1>Iniciar Sesión</h1>
 
-  <form id="loginForm">
-    <label>
-      Usuario:
-      <input type="text" id="email" name="email" required>
-    </label><br>
-    <label>
-      Contraseña:
-      <input type="password" id="password" name="password" required>
-    </label><br>
-    <button type="submit">Ingresar</button>
-  </form>
+    <div class="login-container">
+        <!-- Logo -->
+        <div id="overlay-image">
+            <img src="stream/media/IMG_7611.PNG" alt="Logo">
+        </div>
 
-  <!-- Referencia al archivo externo -->
-  <script src="login.js"></script>
+        <h1>Iniciar Sesión</h1>
+
+        <form id="loginForm">
+            <label for="email">Usuario:</label>
+            <input type="text" id="email" name="email" required>
+
+            <label for="password">Contraseña:</label>
+            <input type="password" id="password" name="password" required>
+
+            <button type="submit">Ingresar</button>
+        </form>
+    </div>
+
+    <script src="login.js"></script>
+
 </body>
 </html>
 

@@ -5,20 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Señal_TresAntenas_Comms</title>
     <link rel="stylesheet" href="css/style.css"> <!-- Ensure this path is correct -->
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script src="auth.js"></script>  <!-- ✅ Se ejecuta antes de cargar la página -->
+    <script src="logout.js" defer></script>
 </head>
 <body>
-    <header>
+<header>
+    <div id="header-content">
+        <!-- Contenedor del logo -->
         <div id="overlay-image">
-            <img src="stream/media/IMG_7611.PNG" alt="Descripción de la imagen">
-        </div> <!-- Overlay image div inside header -->
-    </header>
-    
+            <img src="stream/media/IMG_7611.PNG" alt="Logo">
+        </div>
+
+        <!-- Contenedor del Logout -->
+        <div id="logout-container">
+            <a href="#" id="logout-link">Logout</a>
+        </div>
+    </div>
+</header>
     
         <div id="video-container">
-            <video id="video" controls autoplay muted></video>
-        </div>
-    <script src="js/player.js"></script>
+            <video id="video" controls autoplay muted></video>    
+    </div>
+	<div>  </div>
+
+		 <script src="hls.js"></script>
+                <script src="js/player.js"></script>
+
+<script>
+        console.log(document.compatMode);
+    </script>
+
    
 </body>
 </html>

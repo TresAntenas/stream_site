@@ -10,16 +10,51 @@ body {
     align-items: center;
     height: 100%; /* Hace que el body ocupe toda la pantalla */
 }
-
-header {
-    width: 10%;
+/* Contenedor del header */
+#header-content {
+    width: 100%;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between; /* 🔹 Logo centrado y Logout a la derecha */
+    align-items: center; /* 🔹 Asegura alineación vertical */
+    padding: 10px 20px;
     position: relative;
-    padding: 5px 0; /* Añade un poco de espacio alrededor del contenido */
 }
 
+/* Asegurar que el logo esté al centro */
+#overlay-image {
+    flex: 1; /* 🔹 Permite que el logo se mantenga centrado */
+    display: flex;
+    justify-content: center; /* 🔹 Centra el logo horizontalmente */
+}
+
+/* Estilos del logo */
+#overlay-image img {
+    width: 40px;
+    height: 40px;
+    display: block;
+}
+
+/* Contenedor del Logout */
+#logout-container {
+    flex: 1; /* 🔹 Permite que el Logout quede a la derecha sin afectar el logo */
+    display: flex;
+    justify-content: flex-end; /* 🔹 Alinea el logout completamente a la derecha */
+}
+
+/* Estilos del enlace de Logout */
+#logout-link {
+    font-size: 12px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: color 0.3s ease;
+}
+
+#logout-link:hover {
+    color: #ff4d4d; /* 🔹 Cambio de color al pasar el mouse */
+}
 
 
 /* Contenedor del video */

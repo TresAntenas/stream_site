@@ -1,0 +1,77 @@
+/* Estilos generales */
+body {
+    background-color: #000; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ocupa toda la pantalla */
+    margin: 0;
+}
+
+/* Caja contenedora del login */
+.login-container {
+    background: rgba(255, 255, 255, 0.1); /* Fondo translúcido */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+    text-align: center;
+    width: 320px;
+}
+
+/* Estilos del logo */
+#overlay-image img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+/* Asegurar que el formulario esté bien alineado */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* 🔹 Centra los inputs dentro del formulario */
+    width: 100%;
+}
+
+/* Ajustar el ancho de los inputs y centrarlos */
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    width: 90%; /* 🔹 Ajuste del ancho para centrar bien los inputs */
+    padding: 10px;
+    margin: 10px auto; /* 🔹 Centra los inputs dentro de la caja */
+    border: 1px solid #fff;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    display: block; /* 🔹 Cada input ocupa toda la línea */
+}
+
+/* Volver a alinear los labels a la izquierda */
+label {
+    display: block;
+    text-align: left; /* 🔹 Ahora los labels vuelven a la izquierda */
+    font-size: 14px;
+    margin-top: 10px;
+    width: 90%; /* 🔹 Asegura que los labels coincidan con los inputs */
+}
+
+
+/* Botón de inicio de sesión */
+button {
+    width: 97%;
+    padding: 10px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
