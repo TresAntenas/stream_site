@@ -87,26 +87,22 @@ video {
     width: 40px;
     height: 40px;
 }
-/* Contenedor de Zoom Web SDK */
-#zmmtg-root {
-    width: 70%;
-    height: 50%; /* 60% de la pantalla */
+/* Contenedor principal del iframe */
+#zoom-meeting-container {
+    width: 100%;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    position: relative;
-    z-index: 10;
-    background-color: rgba(0, 0, 0, 0.8);
-    overflow: hidden;
 }
-#join-meeting {
-    margin: 40px;
-    padding: 20px 20px;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-    transition: background-color 0.3s ease;
+
+/* Estilos para el iframe de Zoom */
+#zoom-meeting-frame {
+    width: 90%; /* Se adapta al 90% del ancho del contenedor */
+    height: 80vh; /* Ocupa el 80% de la altura de la ventana */
+    max-width: 1200px; /* Evita que crezca demasiado en pantallas grandes */
+    border: none; /* Quita los bordes */
+    background-color: #000; /* Previene parpadeo blanco al cargar */
+    display: block;
 }
+
